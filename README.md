@@ -1,16 +1,3 @@
-Great! Since you've uploaded the following files for your **HR Analytics Power BI project**, I’ll help you write a complete and professional `README.md` file for your GitHub repository:
-
-### ✅ Files you uploaded:
-
-* `HR Analytics Dashboard.pbix` – your Power BI dashboard file
-* `HR_Analytics.csv` – your dataset
-* `Dashboard preview.png` – screenshot of your Power BI report
-
----
-
-### 📄 Here is the `README.md` content for your GitHub project:
-
-```markdown
 # HR Analytics Project – Power BI Dashboard
 
 ![Dashboard Preview](Dashboard%20preview.png)
@@ -113,13 +100,3 @@ The dashboard provides the following insights:
 
 > ⭐ If you found this project helpful, don’t forget to star the repository!
 ```
-
----
-
-### ✅ Next Steps for You:
-
-1. Rename the screenshot file to `Dashboard preview.png` and place it in the root of your GitHub repo.
-2. Copy and paste the above content into a file named `README.md`.
-3. Push all the files to GitHub.
-
-Would you also like a **LinkedIn post caption** for this project?
